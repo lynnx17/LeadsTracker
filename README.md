@@ -15,3 +15,5 @@ Stap 6: Kies de map waar de extension in staat
 Stap 7: klik op extention naast je zoek balk
 
 Stap 8: Open extention
+
+**Om de delete knop te kunnen gebruiken moet je dubbel klikken :D**
