@@ -1,19 +1,42 @@
-# LeadsTracker
+# URL extension
 
-Stap 1: Download als zip 
+📘 *This google chrome extension was created as part of Scrimba’s Frontend Developer Career Path.* 
 
-Stap 2: Zipmap uitpakken 
+# How to use it.
 
-Stap 3: chrome://extensions/
+Step 1: Download as zip
 
-Stap 4: Developer mode aan 
+Step 2: Unzip folder
 
-Stap 5: load unpacked
+Step 3: chrome://extensions/
 
-Stap 6: Kies de map waar de extension in staat 
+Step 4: Developer mode on
 
-Stap 7: klik op extention naast je zoek balk
+Step 5: Load unpacked
 
-Stap 8: Open extention
+Step 6: choose the folder that contains the extension
 
-**Om de delete knop te kunnen gebruiken moet je dubbel klikken :D**
+Step 7: click on extension next to your search bar
+
+Step 8: Open extension
+
+*To use the delete button you have to double click :D*
+
+
+# What I learned:
+- const
+- addEventListener()
+- innerHTML
+- input.value
+- Function parameters
+- Template strings
+- localStorages
+- The JSON object
+- Objects in arrays
+
+## Technologies:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+---
+Badges via [Shields.io](https://shields.io/) • Logo’s van [Simple Icons](https://simpleicons.org/) (MIT)
